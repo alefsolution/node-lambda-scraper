@@ -9,7 +9,7 @@
     "phantomjs-prebuilt": "2.1.7"
   },
   "devDependencies": {
-    "express": "4.13.4",
+    "express": "4.19.2",
     "body-parser": "1.15.1 "
   }
 }
